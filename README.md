@@ -1,6 +1,8 @@
 # react-timer
 
-## try
+Timer write in react
+
+## demo
 https://warawicht.github.io/react-timer
 
 
